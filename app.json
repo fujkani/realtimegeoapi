@@ -1,8 +1,8 @@
 {
-  "name": "Socket-Chat-Example",
-  "description": "my first socket.io app",
-  "website": "https://github.com/socketio/chat-example",
-  "repository": "https://github.com/socketio/chat-example",
+  "name": "realtimegeoapi",
+  "description": "Realtime Geo API",
+  "website": "https://gitlab.com/fujkani/realtimegeoapi",
+  "repository": "https://gitlab.com/fujkani/realtimegeoapi",
   "logo": "https://node-js-sample.herokuapp.com/node.svg",
   "success_url": "/",
   "keywords": [
