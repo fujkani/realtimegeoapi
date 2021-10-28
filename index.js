@@ -149,5 +149,5 @@ io.on('connection', (socket) => {
 //#endregion Socket eventing
 
 http.listen(port, () => {
-  console.log(`Socket.IO server running at http://localhost:${port}/`);
+  console.log(`Socket.IO server running at port:${port}/`);
 });
