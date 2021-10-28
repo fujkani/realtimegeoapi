@@ -2,7 +2,7 @@
 
 ## Features
 
-This sample API is build in NodeJS and hosted in Netlify as a serverless function
+This sample API is build in NodeJS and hosted in Heroku
 
 - ✨receive✨
 - ✨stream✨
@@ -13,23 +13,21 @@ This sample API is build in NodeJS and hosted in Netlify as a serverless functio
     Node JS
 </a>
 
+## Pre-requisites:
 
-
-## Install Dependencies:
-
-- NodeJS 14+
+- NodeJS 16+ https://nodejs.org/en/
 
 ## Nice to have in your install:
 
 - Visual Studio Code
 - Postman
-- Netlify CLI
+- Heroku CLI if you're planning on pushing to Heroku
 
+## Install
 
-### Environment Variables
-
-
-TBD
+- git clone https://gitlab.com/fujkani/realtimegeoapi.git
+- cd to folder
+- npm install
 
 ### Run the Client locally for debugging and testing
 
@@ -37,9 +35,6 @@ To run the server, run `npm start` from the terminal.
 
 Recommend using Postman to create some basic test cases.
 
-
 ## Authors
 
 Tatjana Stojadinovic, Antoni Mestre Gascon, Jon Ujkani
-
-

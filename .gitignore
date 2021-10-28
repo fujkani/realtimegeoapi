@@ -1,5 +1,5 @@
 node_modules
 test.sqlite
-.env
+.env.production
 .env.development
 logs

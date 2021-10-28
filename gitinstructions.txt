@@ -32,3 +32,5 @@ git push -u origin --tags
 //heroku
 git remote add heroku https://git.heroku.com/realtimegeoapi.git
 git push heroku master
+
+heroku logs --tail
