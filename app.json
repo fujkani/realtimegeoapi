@@ -1,0 +1,22 @@
+{
+  "name": "realtimegeoapi",
+  "description": "Realtime Geo API",
+  "website": "https://gitlab.com/fujkani/realtimegeoapi",
+  "repository": "https://gitlab.com/fujkani/realtimegeoapi",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "success_url": "/",
+  "keywords": [
+    "node",
+    "express",
+    "socket.io",
+    "realtime",
+    "websocket"
+  ],
+  "scripts": {
+  },
+  "addons": [
+  ],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs"
+  }
+}
